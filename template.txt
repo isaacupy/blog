@@ -22,17 +22,16 @@
      <a class="simple" href="./pages/advprg.html"><div id="nora" class="col-sm whiteborder">
        <font><strong>Cognitive Skills & Creativity</strong></font>
      </div></a>
-     <a><div id="progra" class="col-sm whiteborder" onclick="">
+     <a class="simple" href="./pages/advprg.html"><div id="progra" class="col-sm whiteborder" onclick="">
        <font><strong>Advanced Programming</strong></font>
      </div></a>
    </div>
  </div>
  <div class="container roundbottom sandwichpad" style="background-color:#5c615c;">
-   <div id="mainboy" onclick="">
-     <a class="simple" href="./advprg/posts/essayu1.html"><p class="ppost"><font>
-       <strong>Unit 1 Essay</strong><br>
-         Today I made my first essay about advanced programming
-     </font></p></a>
+   <div id="mainboy">
+     <p class="ppost"><font>
+       Welcome to my blog I hope you enjoy our content it is still a work in progress C:
+     </font></p>
    </div>
  </div>
 </body>
