@@ -19,10 +19,10 @@
      <a class="simple" href="https://isaacupy.github.io/blog/"><div id="home" class="col-sm whiteborder" style="">
        <font><strong>Main Page</strong></font>
      </div></a>
-     <a class="simple" href="./pages/advprg.html"><div id="nora" class="col-sm whiteborder">
+     <a class="simple" href="https://isaacupy.github.io/blog/pages/creativity.html"><div id="nora" class="col-sm whiteborder">
        <font><strong>Cognitive Skills & Creativity</strong></font>
      </div></a>
-     <a class="simple" href="./pages/advprg.html"><div id="progra" class="col-sm whiteborder" onclick="">
+     <a class="simple" href="https://isaacupy.github.io/blog/pages/advprg.html"><div id="progra" class="col-sm whiteborder" onclick="">
        <font><strong>Advanced Programming</strong></font>
      </div></a>
    </div>

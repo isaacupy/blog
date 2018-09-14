@@ -14,6 +14,9 @@ font{
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
+img.round{
+  border-radius: 50px;
+}
 .topmargin{
   margin-top: 5%;
 }
