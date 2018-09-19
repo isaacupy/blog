@@ -1,0 +1,9 @@
+//Post
+<p class="ppost"><font>
+  Content
+  </font></p>
+//Link-Post
+<a class="simple" href="./"><p class="ppost"><font>
+  <strong>Title</strong><br>
+    Content
+</font></p></a>
