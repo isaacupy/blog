@@ -1,3 +1,4 @@
+/*Estilos generales*/
 font{
   color: white;
 }
@@ -20,12 +21,6 @@ img.round{
 .topmargin{
   margin-top: 5%;
 }
-.ppost{
-  margin-bottom: 2%;
-  padding-left: 2%;
-  background-color: gray;
-  border-radius: 5px;
-}
 .sandwichpad{
   padding-top: 2%;
   padding-bottom: 2%;
@@ -40,6 +35,13 @@ a:hover.simple{
   text-decoration:none;
   cursor:pointer;
 }
+/*Posts*/
+.ppost{
+  margin-bottom: 2%;
+  padding-left: 2%;
+  background-color: #555454;
+  border-radius: 5px;
+}
 .pheader{
   margin-bottom: 0;
   padding-left: 2%;
@@ -50,10 +52,22 @@ a:hover.simple{
 .pbody{
   margin-bottom: 2%;
   padding-left: 2%;
-  background-color: gray;
+  background-color: #555454;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
 }
+.presume{
+  margin-bottom: 2%;
+  padding-left: 2%;
+  background-color: #454545;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-left-style: solid;
+  border-left-color: white;
+  border-left-width: 5px;
+}
+
+/*Colores*/
 .igrey{
   background-color:#383837;
 }
