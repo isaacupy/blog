@@ -2,6 +2,16 @@
 font{
   color: white;
 }
+body.headus{
+  background-color:#272b2d;
+}
+div.corpus{
+  background-color:#5c615c;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
 .whiteborder{
   border-left: solid;
   border-left-color: white;
@@ -65,6 +75,16 @@ a:hover.simple{
   border-left-style: solid;
   border-left-color: white;
   border-left-width: 5px;
+}
+.mainheader{
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color:#5c615c;
+}
+h1.maintext{
+  font-family: arial;
+  font-weight: bold;
+  font-size: 50px;
 }
 
 /*Colores*/
